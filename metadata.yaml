@@ -5,6 +5,9 @@ contributor:
     agent_name: Neill, Zella
     gutenberg_agent_id: '57535'
     url: http://www.gutenberg.org/2009/agents/57535
+covers:
+- cover_type: archival
+  image_path: 74521-h/images/coversmall.jpg
 creator:
   authors:
   - agent_name: Warman, Cy
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '57534'
     url: http://www.gutenberg.org/2009/agents/57534
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74521#The-Prospector-and-the-Silver-Queen
 gutenberg_issued: '2024-10-06'
 gutenberg_type: Text
 identifiers:
